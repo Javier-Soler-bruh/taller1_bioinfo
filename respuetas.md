@@ -28,7 +28,7 @@ Para  la  reconstrucción filogenética de las aldehído oxidasas (AOX), se real
 
 1. **Selección del Frame de Traducción:**
    * Las secuencias nucleotídicas primarias de *Plutella xylostella* (Pxyl, ensamblajes Px007526.1 y Px007529.2) fueron traducidas en sus 6 marcos de lectura posibles.
-   * Los marcos 2 al 6 mostraron abundantes codones de parada prematuros (`*`), produciendo ruido filogenético y errores de cálculo de matriz de distancia.
+   * Los marcos 2 al 6 mostraron abundantes codones de parada prematuros (*), produciendo ruido filogenético y errores de cálculo de matriz de distancia.
    * Se seleccionó y conservó únicamente la traducción del Frame 1 (Px007526.1_Pxyl_AOX y Px007529.2_Pxyl_AOX), la cual representa la única pauta de lectura abierta (ORF) continua y funcional con dominios de molibdo-flavoenzimas.
 
 2. **Resolución de Inconsistencias:**
